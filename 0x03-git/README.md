@@ -1,1 +1,1 @@
-My second readme
+Git dir readme
